@@ -1,0 +1,156 @@
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\sobel filtering.exe
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\sobel filtering.pdb
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\CSharpFilters.Convolution.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Form_preview.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\CSharpFilters.Parameter.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel filtering.exe
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel filtering.pdb
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Form3.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\WebCam_Capture.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\Interop.WMLSS.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\Interop.WMPLauncher.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\Interop.WMLSS.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Smile.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Normal.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Sad.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.Suprise.resources
+C:\Users\Kasu\Desktop\chin\EmotionDetection\Emotion Detaction\sobel filtering\obj\Debug\sobel_filtering.ambi.resources
+D:\Emotion Based Music Player - Copy\obj\Debug\Interop.WMLSS.dll
+D:\Emotion Based Music Player - Copy\obj\Debug\Interop.WMPLauncher.dll
+D:\Emotion Based Music Player - Copy\obj\Debug\Interop.WMPLib.dll
+D:\Emotion Based Music Player - Copy\obj\Debug\AxInterop.WMPLib.dll
+D:\Emotion Based Music Player - Copy\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+D:\Emotion Based Music Player - Copy\obj\Debug\sobel filtering.exe
+D:\Emotion Based Music Player - Copy\obj\Debug\sobel filtering.pdb
+E:\asp.net\Emotion Based Music Player\obj\Debug\Interop.WMLSS.dll
+E:\asp.net\Emotion Based Music Player\obj\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Emotion Based Music Player\obj\Debug\Interop.WMPLib.dll
+E:\asp.net\Emotion Based Music Player\obj\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel filtering.exe
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel filtering.pdb
+E:\asp.net\Emotion Based Music Player\bin\Debug\sobel filtering.exe
+E:\asp.net\Emotion Based Music Player\bin\Debug\sobel filtering.pdb
+E:\asp.net\Emotion Based Music Player\bin\Debug\Interop.WMLSS.dll
+E:\asp.net\Emotion Based Music Player\bin\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Emotion Based Music Player\bin\Debug\Interop.WMPLib.dll
+E:\asp.net\Emotion Based Music Player\bin\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.ambi.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\CSharpFilters.Convolution.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Form1.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Form2.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Form3.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Form_preview.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Normal.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\CSharpFilters.Parameter.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Properties.Resources.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Sad.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Smile.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel_filtering.Suprise.resources
+E:\asp.net\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+G:\Emotion Based Music Player\obj\Debug\Interop.WMLSS.dll
+G:\Emotion Based Music Player\obj\Debug\Interop.WMPLauncher.dll
+G:\Emotion Based Music Player\obj\Debug\Interop.WMPLib.dll
+G:\Emotion Based Music Player\obj\Debug\AxInterop.WMPLib.dll
+G:\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+G:\Emotion Based Music Player\obj\Debug\sobel filtering.exe
+G:\Emotion Based Music Player\obj\Debug\sobel filtering.pdb
+G:\Emotion Based Music Player\bin\Debug\sobel filtering.exe
+G:\Emotion Based Music Player\bin\Debug\sobel filtering.pdb
+G:\Emotion Based Music Player\bin\Debug\Interop.WMLSS.dll
+G:\Emotion Based Music Player\bin\Debug\Interop.WMPLauncher.dll
+G:\Emotion Based Music Player\bin\Debug\Interop.WMPLib.dll
+G:\Emotion Based Music Player\bin\Debug\AxInterop.WMPLib.dll
+G:\Emotion Based Music Player\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.ambi.resources
+G:\Emotion Based Music Player\obj\Debug\CSharpFilters.Convolution.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Form1.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Form2.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Form3.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Form_preview.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Normal.resources
+G:\Emotion Based Music Player\obj\Debug\CSharpFilters.Parameter.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Properties.Resources.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Sad.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Smile.resources
+G:\Emotion Based Music Player\obj\Debug\sobel_filtering.Suprise.resources
+G:\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\Interop.WMLSS.dll
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\Interop.WMPLib.dll
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel filtering.exe
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel filtering.pdb
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\sobel filtering.exe
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\sobel filtering.pdb
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\Interop.WMLSS.dll
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\Interop.WMPLib.dll
+E:\asp.net\Major Project\Emotion Based Music Player\bin\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.ambi.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\CSharpFilters.Convolution.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Form1.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Form2.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Form3.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Form_preview.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Normal.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\CSharpFilters.Parameter.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Properties.Resources.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Sad.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Smile.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel_filtering.Suprise.resources
+E:\asp.net\Major Project\Emotion Based Music Player\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\Interop.WMLSS.dll
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\Interop.WMPLib.dll
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel filtering.exe
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel filtering.pdb
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.ambi.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\CSharpFilters.Convolution.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Form1.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Form2.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Form3.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Form_preview.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Normal.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\CSharpFilters.Parameter.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Sad.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Smile.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel_filtering.Suprise.resources
+E:\asp.net\Major Project\An Intelligent Music Player\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\Interop.WMLSS.dll
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\Interop.WMPLauncher.dll
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\Interop.WMPLib.dll
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\AxInterop.WMPLib.dll
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel filtering.csproj.ResolveComReference.cache
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel filtering.exe
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel filtering.pdb
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.ambi.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\CSharpFilters.Convolution.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Form1.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Form2.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Form3.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Form_preview.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Normal.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\CSharpFilters.Parameter.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Sad.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Smile.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel_filtering.Suprise.resources
+E:\asp.net\Major Project\midTerm Defence\An Intelligent Music Player\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
